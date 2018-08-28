@@ -9,7 +9,7 @@ while true do
 	uSelect = io.read()
 
 	if uSelect == "yes" then
-		print("you basic bitch")
+    		print("you basic bitch")
 
 	elseif uSelect == "no" then
 		print("you ight")
